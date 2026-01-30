@@ -18,16 +18,16 @@
 
 <!-- 技术栈图标 -->
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/SuperCollider-CD2626?style=flat-square&logo=soundcharts&logoColor=white"/>
-<img src="https://img.shields.io/badge/Max%2FMSP-525252?style=flat-square&logo=cycling74&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dorico-1E1E1E?style=flat-square&logo=steinberg&logoColor=white"/>
-<img src="https://img.shields.io/badge/Logic%20Pro-000000?style=flat-square&logo=apple&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=abletonlive&logoColor=white"/>
-<img src="https://img.shields.io/badge/FL%20Studio-FF7900?style=flat-square&logo=imageline&logoColor=white"/>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></a>
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/></a>
+<a href="https://www.latex-project.org/"><img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/></a>
+<a href="https://supercollider.github.io/"><img src="https://img.shields.io/badge/SuperCollider-CD2626?style=flat-square&logo=soundcharts&logoColor=white"/></a>
+<a href="https://cycling74.com/products/max"><img src="https://img.shields.io/badge/Max%2FMSP-525252?style=flat-square&logo=cycling74&logoColor=white"/></a>
+<a href="https://www.steinberg.net/dorico/"><img src="https://img.shields.io/badge/Dorico-1E1E1E?style=flat-square&logo=steinberg&logoColor=white"/></a>
+<a href="https://www.apple.com/logic-pro/"><img src="https://img.shields.io/badge/Logic%20Pro-000000?style=flat-square&logo=apple&logoColor=white"/></a>
+<a href="https://www.ableton.com/live/"><img src="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=abletonlive&logoColor=white"/></a>
+<a href="https://www.image-line.com/fl-studio/"><img src="https://img.shields.io/badge/FL%20Studio-FF7900?style=flat-square&logo=imageline&logoColor=white"/></a>
 </p>
 
 <!-- 贡献蛇图 -->
