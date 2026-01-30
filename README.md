@@ -16,11 +16,12 @@
 <img src="https://img.shields.io/badge/Max/MSP-525252?style=for-the-badge&logo=cycling74&logoColor=white"/>
 </p>
 
-<!-- GitHub 统计 -->
-<p>
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=chaye7417&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaye7417&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-</p>
+<!-- 贡献蛇图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chaye7417/chaye7417/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chaye7417/chaye7417/output/snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/chaye7417/chaye7417/output/snake.svg" />
+</picture>
 
 </div>
 
