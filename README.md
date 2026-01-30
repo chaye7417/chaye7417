@@ -13,6 +13,7 @@
 <p>
 <a href="https://space.bilibili.com/22826684"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
 <a href="https://xhslink.com/m/578hsDMWkE3"><img src="https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white"/></a>
+<a href="https://v.douyin.com/OGT5aSgGh28/"><img src="https://img.shields.io/badge/抖音-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
 </p>
 
 <!-- 技术栈图标 -->
