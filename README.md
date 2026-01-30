@@ -21,6 +21,11 @@
 <img src="https://img.shields.io/badge/Max%2FMSP-525252?style=flat-square&logo=cycling74&logoColor=white"/>
 <img src="https://img.shields.io/badge/Dorico-1E1E1E?style=flat-square&logo=steinberg&logoColor=white"/>
 </p>
+<p>
+<img src="https://img.shields.io/badge/Logic%20Pro-000000?style=flat-square&logo=apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=abletonlive&logoColor=white"/>
+<img src="https://img.shields.io/badge/FL%20Studio-FF7900?style=flat-square&logo=imageline&logoColor=white"/>
+</p>
 
 <!-- 贡献蛇图 -->
 <picture>
