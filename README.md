@@ -9,6 +9,12 @@
 <!-- 访客计数器 -->
 <img src="https://komarev.com/ghpvc/?username=chaye7417&style=flat-square&color=blue&label=Views"/>
 
+<!-- 社交链接 -->
+<p>
+<a href="https://space.bilibili.com/22826684"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white"/></a>
+<a href="https://xhslink.com/m/578hsDMWkE3"><img src="https://img.shields.io/badge/小红书-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white"/></a>
+</p>
+
 <!-- 技术栈图标 -->
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
