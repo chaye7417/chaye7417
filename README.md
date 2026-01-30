@@ -26,8 +26,8 @@
 <a href="https://cycling74.com/products/max"><img src="https://img.shields.io/badge/Max%2FMSP-525252?style=flat-square&logo=cycling74&logoColor=white"/></a>
 <a href="https://www.steinberg.net/dorico/"><img src="https://img.shields.io/badge/Dorico-1E1E1E?style=flat-square&logo=steinberg&logoColor=white"/></a>
 <a href="https://www.apple.com/logic-pro/"><img src="https://img.shields.io/badge/Logic%20Pro-000000?style=flat-square&logo=apple&logoColor=white"/></a>
-<a href="https://www.ableton.com/live/"><img src="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=abletonlive&logoColor=white"/></a>
-<a href="https://www.image-line.com/fl-studio/"><img src="https://img.shields.io/badge/FL%20Studio-FF7900?style=flat-square&logo=imageline&logoColor=white"/></a>
+<a href="https://www.ableton.com/live/"><img src="https://img.shields.io/badge/Ableton%20Live-000000?style=flat-square&logo=ableton&logoColor=white"/></a>
+<a href="https://www.image-line.com/fl-studio/"><img src="https://img.shields.io/badge/FL%20Studio-FF7900?style=flat-square&logo=flstudio&logoColor=white"/></a>
 </p>
 
 <!-- 贡献蛇图 -->
