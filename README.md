@@ -3,10 +3,11 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=chaye7417&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Music%20×%20Technology&descSize=18&descAlignY=52" width="100%"/>
 
-<!-- 简介 -->
-### 🎹 中央音乐学院 · 电子音乐作曲硕士生
+<!-- 打字机动画 -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%F0%9F%8E%B9+%E4%B8%AD%E5%A4%AE%E9%9F%B3%E4%B9%90%E5%AD%A6%E9%99%A2+%C2%B7+%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E4%BD%9C%E6%9B%B2%E7%A1%95%E5%A3%AB%E7%94%9F;%F0%9F%94%8A+SuperCollider+%7C+Max%2FMSP+%7C+AI+%E9%9F%B3%E4%B9%90%E7%94%9F%E6%88%90;%F0%9F%9B%A0%EF%B8%8F+%E9%9F%B3%E4%B9%90%E7%A7%91%E6%8A%80%E5%B7%A5%E5%85%B7%E5%BC%80%E5%8F%91" alt="Typing SVG" /></a>
 
-专注于音乐科技工具开发 | SuperCollider | Max/MSP | AI 音乐生成
+<!-- 访客计数器 -->
+<img src="https://komarev.com/ghpvc/?username=chaye7417&style=for-the-badge&color=blue&label=访客数"/>
 
 <!-- 技术栈图标 -->
 <p>
