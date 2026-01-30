@@ -11,10 +11,15 @@
 
 <!-- 技术栈图标 -->
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/SuperCollider-6B8E23?style=for-the-badge&logo=soundcharts&logoColor=white"/>
-<img src="https://img.shields.io/badge/Max/MSP-525252?style=for-the-badge&logo=cycling74&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/SuperCollider-CD2626?style=flat-square&logo=soundcharts&logoColor=white"/>
+<img src="https://img.shields.io/badge/Max%2FMSP-525252?style=flat-square&logo=cycling74&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dorico-1E1E1E?style=flat-square&logo=steinberg&logoColor=white"/>
 </p>
 
 <!-- 贡献蛇图 -->
