@@ -56,11 +56,25 @@ RVC 实时变声器 macOS 版
 </td>
 <td width="50%">
 
+### [NotaGen-macOS](https://github.com/chaye7417/NotaGen-macOS)
+![Stars](https://img.shields.io/github/stars/chaye7417/NotaGen-macOS?style=flat-square&color=yellow)
+
+AI 乐谱生成 macOS 优化版
+修复内存泄漏、界面汉化、自动转 XML
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
 ### [ComfyUI_NotaGen](https://github.com/chaye7417/ComfyUI_NotaGen)
 ![Stars](https://img.shields.io/github/stars/chaye7417/ComfyUI_NotaGen?style=flat-square&color=yellow)
 
 AI 乐谱生成
 NotaGen 的 ComfyUI 节点
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
