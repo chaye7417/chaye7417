@@ -76,6 +76,12 @@ NotaGen 的 ComfyUI 节点
 </td>
 <td width="50%">
 
+### [imslp-downloader](https://github.com/chaye7417/imslp-downloader)
+![Stars](https://img.shields.io/github/stars/chaye7417/imslp-downloader?style=flat-square&color=yellow)
+
+IMSLP 乐谱下载器
+搜索并批量下载国际乐谱图书馆的 PDF
+
 </td>
 </tr>
 </table>
