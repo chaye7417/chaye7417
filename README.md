@@ -84,6 +84,20 @@ IMSLP 乐谱下载器
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### [supercollider-edm-refactor](https://github.com/chaye7417/supercollider-edm-refactor)
+![Stars](https://img.shields.io/github/stars/chaye7417/supercollider-edm-refactor?style=flat-square&color=yellow)
+
+模块化 SuperCollider 电子舞曲项目
+合成器、效果器、播放器系统
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
 </table>
 
 ## 🔌 Obsidian 插件
