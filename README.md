@@ -51,7 +51,7 @@
 ![Stars](https://img.shields.io/github/stars/chaye7417/RVC-MacOS?style=flat-square&color=yellow)
 
 RVC 实时变声器 macOS 版
-一键安装，60+ 声音模型
+一键安装，33 个中文声音模型
 
 </td>
 <td width="50%">
