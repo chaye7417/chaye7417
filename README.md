@@ -100,6 +100,25 @@ IMSLP 乐谱下载器
 </tr>
 </table>
 
+## 🎮 游戏工具
+
+<table>
+<tr>
+<td width="50%">
+
+### [yugioh-sav-editor](https://github.com/chaye7417/yugioh-sav-editor)
+![Stars](https://img.shields.io/github/stars/chaye7417/yugioh-sav-editor?style=flat-square&color=yellow)
+
+游戏王 NDS 存档可视化编辑器
+支持 WC2007/WC2008/WC2009
+
+</td>
+<td width="50%">
+
+</td>
+</tr>
+</table>
+
 ## 🔌 Obsidian 插件
 
 <table>
